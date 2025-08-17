@@ -20,11 +20,6 @@ It’s built with **HTML, CSS, and JavaScript**, and is designed to be simple, i
 
 ---
 
-## 📸 Demo Preview
-![Sorting Visualizer Demo](https://via.placeholder.com/800x400.png?text=Sorting+Visualizer+Demo)  
-*(Replace this with a real screenshot or GIF of your project in action!)*  
-
----
 
 ## 🛠️ Tech Stack
 - **HTML5** – structure  
@@ -58,7 +53,3 @@ Created with ❤️ by **Aryan Vikram Singh (AVS 😎)**
 - [🌐 LinkedIn](https://www.linkedin.com/in/aryan-vikram-singh-b46043267/)  
 - [💻 GitHub](https://github.com/aryan-avs)  
 
----
-
-## 📜 License
-This project is licensed under the **MIT License** – free to use, modify, and distribute.  
